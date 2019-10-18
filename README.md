@@ -1,4 +1,6 @@
+# Food Delivery App using React.js
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It was written using Material UI and tested using Jest/Enzyme.
 
 ## Available Scripts
 
